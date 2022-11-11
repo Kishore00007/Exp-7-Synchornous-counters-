@@ -96,7 +96,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/94233985/201402213-18f90b3c-a113-4eb7-81d4-429295100a8a.png)
 ### DOWN COUNTER:
 
-![image](https://user-images.githubusercontent.com/94233985/201402255-c92a0f35-b121-46c0-9466-598bf7c938ea.png
+![image](https://user-images.githubusercontent.com/94233985/201402255-c92a0f35-b121-46c0-9466-598bf7c938ea.png)
 
 
 ## TIMING DIGRAMS FOR COUNTER:
